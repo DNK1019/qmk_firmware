@@ -1,0 +1,2 @@
+BOOTLOADER = atmel-dfu
+BOOTLOADER_SIZE = 4096
